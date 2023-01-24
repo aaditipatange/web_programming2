@@ -1,0 +1,19 @@
+{
+  "name": "cs-554-lab1",
+  "version": "1.0.0",
+  "description": "this is lab 1 of CS 554",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Aaditi Patange",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "mongodb": "^4.3.1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "binterest_server",
+  "version": "1.0.0",
+  "description": "This is apollo server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Aaditi Patange",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.18.2",
+    "axios": "^0.23.0",
+    "bluebird": "^3.7.2",
+    "graphql": "^15.0.0",
+    "mongodb": "^3.5.3",
+    "node-redis": "^0.1.7",
+    "redis": "^3.0.2",
+    "uuid": "^8.0.0"
+  }
+}
